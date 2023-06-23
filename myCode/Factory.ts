@@ -27,13 +27,13 @@ class Whale extends Animal {
     }
 }
 
-// const d = new Dog();
-// const e = d.eat();
-// console.log(e);
+const d = new Dog();
+const e = d.eat();
+console.log(e);
 
-// const m = new Cat();
-// const mi = m.eat();
-// console.log(mi);
+const m = new Cat();
+const mi = m.eat();
+console.log(mi);
 
 class AnimalObject {
 
